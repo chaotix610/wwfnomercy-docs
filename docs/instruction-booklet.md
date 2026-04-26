@@ -41,8 +41,8 @@ www.thq.com/registration
 
 | Section                         | Page |
 | ------------------------------- | ---- |
-| [WWF No Mercy™](#WWF NO MERCY™) | 2    |
-| [The Nintendo® 64 Controller](#THE NINTENDO 64 CONTROLLER) | 4    |
+| [WWF No Mercy™](#WWF-NO-MERCY™) | 2    |
+| [The Nintendo® 64 Controller](#THE-NINTENDO-64-CONTROLLER) | 4    |
 | Starting the Game               | 5    |
 | The Controls                    | 6    |
 | The Moves                       | 8    |
