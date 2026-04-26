@@ -40,43 +40,43 @@ www.thq.com/registration
 ## CONTENTS
 
 | Section                         | Page |
-| ------------------------------- | ---- |
-| [WWF No Mercy™](#WWF-NO-MERCY™) | 2    |
-| [The Nintendo® 64 Controller](#THE-NINTENDO-64-CONTROLLER) | 4    |
-| Starting the Game               | 5    |
-| The Controls                    | 6    |
-| The Moves                       | 8    |
-| --Signature Moves               | 12   |
-| Main Menu                       | 13   |
-| Multi-Play                      | 14   |
-| --Exhibition                    | 14   |
-| --Royal Rumble®                 | 15   |
-| --Pay-Per-View                  | 16   |
-| --King of the Ring®             | 17   |
-| --Guest Referee                 | 19   |
-| --Ladder Match                | 19   |
-| --Iron Man Match              | 19   |
-| Single Play                   | 20   |
-| --Survival                    | 20   |
-| --Championship                | 21   |
-| Commissioner                  | 22   |
-| --SmackDown!™ Mall            | 22   |
-| --Shop                        | 23   |
-| --Data                        | 28   |
-| --Options                     | 29   |
-| --Records                     | 29   |
-| Playing a Game                | 30   |
-| --Selecting a Match           | 30   |
-| --Selecting the Players       | 31   |
-| --Selecting an Arena          | 31   |
-| --Selecting the Rules         | 32   |
-| --Selecting the Belt          | 33   |
-| --Selecting the Superstars    | 34   |
-| --Match-Up Screen             | 34   |
-| Pause Game Menu               | 35   |
-| Saving and Loading            | 35   |
-| Controller Pak® & Rumble Pak® | 36   |
-| THQ Limited Warranty          | 37   |
+| --------------------------------------------------------------- | ---- |
+| [WWF No Mercy™](#WWF-NO-MERCY™)                                 | 2    |
+| [The Nintendo® 64 Controller](#THE-NINTENDO-64-CONTROLLER)      | 4    |
+| [Starting the Game](#STARTING-THE-GAME)                         | 5    |
+| [The Controls](#THE-CONTROLS)                                   | 6    |
+| [The Moves](#THE-MOVES)                                         | 8    |
+| [--Signature Moves](#SIGNATURE-MOVES)                           | 12   |
+| [Main Menu](#MAIN-MENU)                                         | 13   |
+| [Multi-Play](#MULTI-PLAY)                                       | 14   |
+| [--Exhibition](#EXHIBITION)                                     | 14   |
+| [--Royal Rumble®](#ROYAL-RUMBLE)                                | 15   |
+| [--Pay-Per-View](#PAY-PER-VIEW)                                 | 16   |
+| [--King of the Ring®](#KING-OF-THE-RING)                        | 17   |
+| [--Guest Referee](#GUEST-REFEREE)                               | 19   |
+| [--Ladder Match](#LADDER-MATCH)                                 | 19   |
+| [--Iron Man Match](#IRON-MAN-MATCH)                             | 19   |
+| [Single Play](#SINGLE-PLAY)                                     | 20   |
+| [--Survival](#SURVIVAL)                                         | 20   |
+| [--Championship](#CHAMPIONSHIP)                                 | 21   |
+| [Commissioner](#COMMISSIONER)                                   | 22   |
+| [--SmackDown!™ Mall](#SMACKDOWN!™-MALL)                         | 22   |
+| [--Shop](#SHOP)                                                 | 23   |
+| [--Data](#DATA)                                                 | 28   |
+| [--Options](#OPTIONS)                                           | 29   |
+| [--Records](#RECORDS)                                           | 29   |
+| [Playing a Game](#PLAYING-A-GAME)                               | 30   |
+| [--Selecting a Match](#SELECTING-A-MATCH)                       | 30   |
+| [--Selecting the Players](#SELECTING-THE-PLAYERS)               | 31   |
+| [--Selecting an Arena](#SELECTING-AN-ARENA)                     | 31   |
+| [--Selecting the Rules](#SELECTING-THE-RULES)                   | 32   |
+| [--Selecting the Belt](#SELECTING-THE-BELT)                     | 33   |
+| [--Selecting the Superstars](#SELECTING-THE-SUPERSTARS)         | 34   |
+| [--Match-Up Screen](#MATCH-UP-SCREEN)                           | 34   |
+| [Pause Game Menu](#PAUSE-GAME-MENU)                             | 35   |
+| [Saving and Loading](#SAVING-AND-LOADING)                       | 35   |
+| [Controller Pak® & Rumble Pak®](#CONTROLLER-PAK®-&-RUMBLE-PAK®) | 36   |
+| [THQ Limited Warranty](#THQ-LIMITED-WARRANTY)                   | 37   |
 
 ---
 (page 2)
