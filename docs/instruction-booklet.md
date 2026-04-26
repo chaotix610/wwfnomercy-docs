@@ -39,21 +39,21 @@ www.thq.com/registration
 ---
 ## CONTENTS
 
-| Section                       | Page |
-| ----------------------------- | ---- |
-| WWF No Mercy™                 | 2    |
-| The Nintendo® 64 Controller   | 4    |
-| Starting the Game             | 5    |
-| The Controls                  | 6    |
-| The Moves                     | 8    |
-| --Signature Moves             | 12   |
-| Main Menu                     | 13   |
-| Multi-Play                    | 14   |
-| --Exhibition                  | 14   |
-| --Royal Rumble®               | 15   |
-| --Pay-Per-View                | 16   |
-| --King of the Ring®           | 17   |
-| --Guest Referee               | 19   |
+| Section                         | Page |
+| ------------------------------- | ---- |
+| [WWF No Mercy™](#WWF NO MERCY™) | 2    |
+| [The Nintendo® 64 Controller](#THE NINTENDO 64 CONTROLLER) | 4    |
+| Starting the Game               | 5    |
+| The Controls                    | 6    |
+| The Moves                       | 8    |
+| --Signature Moves               | 12   |
+| Main Menu                       | 13   |
+| Multi-Play                      | 14   |
+| --Exhibition                    | 14   |
+| --Royal Rumble®                 | 15   |
+| --Pay-Per-View                  | 16   |
+| --King of the Ring®             | 17   |
+| --Guest Referee                 | 19   |
 | --Ladder Match                | 19   |
 | --Iron Man Match              | 19   |
 | Single Play                   | 20   |
